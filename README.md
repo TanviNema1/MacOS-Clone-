@@ -30,8 +30,9 @@ This project demonstrates how a desktop operating system interface can be simula
 ---
 
 ## 📸 Preview
-
-*(Include screenshots or GIFs here for better presentation)*
+<p align="center">
+  <img src="assets/UI%20Interface.jpeg" width="800"/>
+</p>
 
 ---
 
