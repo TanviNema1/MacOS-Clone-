@@ -1,4 +1,4 @@
-#  MacOS-Inspired Desktop Interface (Web UI)
+#  MacOS-Inspired Desktop Interface 
 
 A high-fidelity **MacOS-inspired desktop interface** built using modern web technologies. This project recreates the core visual and interactive elements of the MacOS environment, focusing on user experience, responsiveness, and smooth UI behavior.
 
